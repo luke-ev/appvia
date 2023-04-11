@@ -2,25 +2,30 @@ import { SelectedFeatures } from "./types"
 
 export const users = [
   {
-      name: "Luke",
-      description: "",
-      selectedFeatures: [""],
+    name: "Arden",
+    description: "",
+    selectedFeatures: [""],
   },
   {
-      name: "Mark",
-      description: "",
-      selectedFeatures: [""],
+    name: "Kevin",
+    description: "",
+    selectedFeatures: [""],
   },
   {
-      name: "Marc",
-      description: "",
-      selectedFeatures: [""],
+    name: "Luke",
+    description: "",
+    selectedFeatures: [""],
   },
   {
-      name: "Kevin",
-      description: "",
-      selectedFeatures: [""],
+    name: "Mark",
+    description: "",
+    selectedFeatures: [""],
   },
+  {
+    name: "Marc",
+    description: "",
+    selectedFeatures: [""],
+  }
 ]
 
 export const features: SelectedFeatures[] = [
